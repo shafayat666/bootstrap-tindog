@@ -12,7 +12,7 @@ TinDog is a simple, responsive landing page designed for a fictional dog dating 
 
 
 ## Demo
-You can view a live demo of the project [here.](#)
+You can view a live demo of the project [here.](https://shafayat666.github.io/bootstrap-tindog/)
 
 ![TinDog Screenshot](./tindog-preview.gif)
 
